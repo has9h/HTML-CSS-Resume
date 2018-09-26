@@ -1,1 +1,26 @@
-/* Your CSS styles go here */
+body {
+    background: lightblue;
+    width: 800px;
+    margin: auto;
+    color: #00000f;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+#firstDiv {
+    color: white;
+    text-align: center;
+}
+
+h1, p{
+    color: white;
+}
